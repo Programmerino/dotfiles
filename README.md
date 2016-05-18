@@ -113,11 +113,10 @@ Unity Tweak Tool - is a settings manager for the Unity desktop.
 [YosemiteSanFranciscoFont]
 
 
-
 [Arc Chrome theme]:https://chrome.google.com/webstore/detail/arc-chrome-theme/oedilkkjhpfhjpbgkloomkpjmficnona
 [Arc Darker Firefox theme]:https://github.com/horst3180/arc-firefox-theme/releases
 [Arc Darker GTK]:https://github.com/horst3180/Arc-theme
 [MOKA ICON THEME]:https://snwh.org/moka/download
 [Font Awesome cheatsheet]:https://fortawesome.github.io/Font-Awesome/cheatsheet/
 [Font Awesome]:https://github.com/FortAwesome/Font-Awesome/releases
-[YosemiteSanFranciscoFont]:"https://github.com/supermarin/YosemiteSanFranciscoFont
+[YosemiteSanFranciscoFont]:https://github.com/supermarin/YosemiteSanFranciscoFont
