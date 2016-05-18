@@ -15,7 +15,7 @@ i3 configuration for Ubuntu 16.04
 2. Disable IBus:
 
     Run unity-control-center and go to Personal -> Language Support -> Keyboard input method system: none
-    
+
     ![disable-ibus](https://i.gyazo.com/a834400b922d3251d2577b7d3636c871.png)
 
 3. Install fonts:
@@ -60,14 +60,19 @@ i3 configuration for Ubuntu 16.04
     Run lxappearance, unity-tweak-tool, gnome-terminal and change themes, fonts, icons.
 
     LXAppearance:
+
     ![LXAppearance](https://i.gyazo.com/cb09d9522e8ad794a4b5da4ae8b4a5d3.png)
 
     Unity-tweak-tool:
+    
     ![Unity-tweak-tool-1](https://i.gyazo.com/fb548639d28250f4c62483e00e888f59.png)
+
     ![Unity-tweak-tool-2](https://i.gyazo.com/08de9d2438351bb4817966138daf96ef.png)
+
     ![Unity-tweak-tool-3](https://i.gyazo.com/ee62e20a71194956e3b882b47ba19a56.png)
 
     Gnome-terminal:
+
     ![Gnome-terminal](https://i.gyazo.com/189a11871895417a1ef63090032ed9ee.png)
 
 7. Disable start nautilus wallpaper
