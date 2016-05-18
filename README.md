@@ -64,7 +64,7 @@ i3 configuration for Ubuntu 16.04
     ![LXAppearance](https://i.gyazo.com/cb09d9522e8ad794a4b5da4ae8b4a5d3.png)
 
     Unity-tweak-tool:
-    
+
     ![Unity-tweak-tool-1](https://i.gyazo.com/fb548639d28250f4c62483e00e888f59.png)
 
     ![Unity-tweak-tool-2](https://i.gyazo.com/08de9d2438351bb4817966138daf96ef.png)
@@ -111,6 +111,7 @@ Unity Tweak Tool - is a settings manager for the Unity desktop.
 [Font Awesome]
 
 [YosemiteSanFranciscoFont]
+
 
 [Arc Chrome theme]:https://chrome.google.com/webstore/detail/arc-chrome-theme/oedilkkjhpfhjpbgkloomkpjmficnona
 [Arc Darker Firefox theme]:https://github.com/horst3180/arc-firefox-theme/releases
