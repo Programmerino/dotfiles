@@ -15,6 +15,8 @@ i3 configuration for Ubuntu 16.04
 2. Disable IBus:
 
     Run unity-control-center and go to Personal -> Language Support -> Keyboard input method system: none
+    
+    ![disable-ibus](https://i.gyazo.com/a834400b922d3251d2577b7d3636c871.png)
 
 3. Install fonts:
 
