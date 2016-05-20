@@ -84,7 +84,7 @@ i3 configuration for Ubuntu 16.04
 
 8. Copy files (.config/i3/config, etc)
 
-9. Log out and select i3 desktop environment on LightDM menu and log in. After log in generate first i3 configuration.
+9. Log out and select i3 desktop environment on LightDM menu and log in.
 
 ## Screenshots
 
